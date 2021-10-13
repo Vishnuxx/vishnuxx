@@ -1,5 +1,3 @@
-##Hey Buddies
-##I'm Vishnu
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
