@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuxx&count_private=true,show_icons=true&theme=city_lights" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuxx&layout=compact&theme=city_lights" />
+</a>
+
 
 <p align="left"> 
     <br>
@@ -43,21 +50,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
     
    </br>
-   
-     
-    
-    
 
- 
 </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuxx&count_private=true,show_icons=true&theme=city_lights" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuxx&layout=compact&theme=city_lights" />
-</a>
 
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Vishnuxx's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishnuxx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
