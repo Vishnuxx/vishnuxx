@@ -53,4 +53,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
