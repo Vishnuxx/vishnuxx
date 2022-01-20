@@ -56,11 +56,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishnuxx&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
-  <p align="center">
-  <img src="https://github.com/Vishnuxx/Vishnuxx/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
+<div align="center">
+  <img  src="/github-contribution-grid-snake.svg"
+    alt="elanza-48" />
+</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
