@@ -53,4 +53,4 @@
 
 
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Vishnuxx's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishnuxx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
