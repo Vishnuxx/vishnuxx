@@ -52,7 +52,7 @@
     alt="elanza-48" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishnuxx&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishnuxx&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
