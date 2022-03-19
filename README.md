@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Student+Developer;Founder+at+Ideologics;Passionate+about+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Student+Developer;Founder+at+Ideologics;Innovator;Composer;Passionate+about+Everything)](https://git.io/typing-svg)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
