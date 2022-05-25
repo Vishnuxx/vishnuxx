@@ -8,26 +8,44 @@
 
 <p align="center">
     <kbd>
-         <a style="margin-right: 30px; width:30px; height:30px;" href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">dsd<a/> 
+        <a href="https://www.linkedin.com/in/vishnu-vs-799b8420b">
+         <img style="margin-right: 30px; width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/> 
+        </a>
     </kbd>
     <kbd>
+        <a href="https://instagram.com/ideo_logic?igshid=YmMyMTA2M2Y=">
         <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>  
+        </a>
     </kbd>
     <kbd>
+         <a href="https://dev.to/vishnuxx">
         <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/> 
+        </a>
     </kbd>
-    <kbd>
+<!--     <kbd>
         <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
-    </kbd>
+    </kbd> -->
     <kbd>
         <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
     </kbd>
     <kbd>
+         <a href="https://stackoverflow.com/users/15778787/vishnuxx">
         <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"/>
+        </a>
     </kbd>
     <kbd>
+         <a href="https://dribbble.com/Vishnuxx">
         <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
+        </a>
     </kbd>
+</p>
+    
+<p >
+I'm a self-taught web developer and Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.Currently, I'm focused on the backend development.
+Using a combination of cutting-edge technologies and reliable open-source software I build user-focused, performant apps and websites for smartphones, tablets, and desktops.
+
+I love working on a variety of technologies including Web Development, Mobile App Development and Deep Learning. My goal is to build highly performant applications that solve real-world problems and provide users with an awesome experience.
+
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishnuxx&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
