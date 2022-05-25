@@ -2,10 +2,8 @@
 <!-- <h3 align="center">◀︎Jack of all trades►</h3> -->
 
 <p align="center" data-sourcepos="4:1-4:282" dir="auto">
-<!-- <a href="https://git.io/typing-svg" rel="nofollow"> -->
-<img src="https://camo.githubusercontent.com/5c944c001ed4c6f5b2055d132c245b164b321f39d2c96b7ddef8e702ac448020/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d506f7070696e732673697a653d3330266475726174696f6e3d3230303026636f6c6f723d464641303034266261636b67726f756e643d46464646464631392663656e7465723d74727565267643656e7465723d74727565266c696e65733d466f756e6465722b3b554925324655582b64657369676e65722b3b456e7472657072656e65757265723b436f6d6d756e6974792b4c6561643b53747564656e742b456e74687573696173742b3b53656c662b7461756768742b446576656c6f7065722b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;size=30&amp;duration=2000&amp;color=FFA004&amp;background=FFFFFF19&amp;center=true&amp;vCenter=true&amp;lines=Founder+;UI%2FUX+designer+;Entrepreneurer;Community+Lead;Student+Enthusiast+;Self+taught+Developer+" style="max-width: 100%;">
-<!-- </a> -->
-</p>
+
+<p align="center"  data-sourcepos="6:1-6:282" dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/17b85af8a93575ffb2e4f3d8ab44efdfafd33290f924ad733ab06dfd917ce307/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d506f7070696e732673697a653d3330266475726174696f6e3d3230303026636f6c6f723d464641303034266261636b67726f756e643d37443744374431392663656e7465723d74727565267643656e7465723d74727565266c696e65733d466f756e6465722b3b554925324655582b64657369676e65722b3b456e7472657072656e65757265723b436f6d6d756e6974792b4c6561643b53747564656e742b456e74687573696173742b3b53656c662b7461756768742b446576656c6f7065722b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;size=30&amp;duration=2000&amp;color=FFA004&amp;background=7D7D7D19&amp;center=true&amp;vCenter=true&amp;lines=Founder+;UI%2FUX+designer+;Entrepreneurer;Community+Lead;Student+Enthusiast+;Self+taught+Developer+" style="max-width: 100%;"></a></p>
 
 <h3>Expertise</h3>
 <kbd>
