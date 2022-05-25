@@ -34,17 +34,6 @@
 
 
 
-<h3>Expertise</h3>
-<p align="left">
-<a href="https://dev.to/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sd" height="30" width="40" /></a>
-<a href="https://twitter.com/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sd" height="30" width="40" /></a>
-<!-- <a href="https://linkedin.com/in/sd" target="blank"><img align="center"  alt="sd" height="30" width="40" /></a> -->
-<a href="https://stackoverflow.com/users/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sd" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd" height="30" width="40" /></a> -->
-<a href="https://dribbble.com/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sd" height="30" width="40" /></a>
-<a href="https://discord.gg/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sd" height="30" width="40" /></a>
-</p>
 
 
 <!-- 
