@@ -1,17 +1,14 @@
+<h1 align="center" >Vishnuxx</h1>
+<!-- <h3 align="center">◀︎Jack of all trades►</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Student+Developer;Founder+at+Ideologics;Innovator;Composer;Passionate+about+Everything)](https://git.io/typing-svg)
+<p  align="center" data-sourcepos="4:1-4:262" dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/9874cd9351894a5d31d680a91cd5a86b750b9899d9dfa4f9317a4c75dad0c427/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d506f7070696e732673697a653d3234266475726174696f6e3d3230303026636f6c6f723d4646413030342663656e7465723d74727565267643656e7465723d74727565266c696e65733d466f756e6465722b3b554925324655582b64657369676e65722b3b456e7472657072656e65757265723b436f6d6d756e6974792b4c6561643b53747564656e742b456e74687573696173742b3b53656c662b7461756768742b446576656c6f7065722b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;size=24&amp;duration=2000&amp;color=FFA004&amp;center=true&amp;vCenter=true&amp;lines=Founder+;UI%2FUX+designer+;Entrepreneurer;Community+Lead;Student+Enthusiast+;Self+taught+Developer+" style="max-width: 100%;"></a></p>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuxx&count_private=true,show_icons=true&theme=city_lights" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuxx&layout=compact&theme=city_lights" />
-</a>
-</div>
-
-![](https://komarev.com/ghpvc/?username=your-github-vishnuxx)
-
+<h3>Expertise</h3>
+<kbd>
+    <img style="width:30px; height:30px;" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img style="width:30px; height:30px;" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</kbd>
+<!-- 
 <p align="center"  > 
     <br>
      <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
@@ -46,6 +43,20 @@
       <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
     </br>
 </p>
+
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuxx&count_private=true,show_icons=true&theme=city_lights" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuxx&layout=compact&theme=city_lights" />
+</a>
+</div>
+
+![](https://komarev.com/ghpvc/?username=your-github-vishnuxx)
+
+
 
 <div align="center">
   <img  src="/github-contribution-grid-snake.svg"
@@ -83,4 +94,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
