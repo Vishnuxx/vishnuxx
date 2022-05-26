@@ -1,4 +1,14 @@
-<!-- ![vishnuxx](https://user-images.githubusercontent.com/74808440/170266114-1732c8da-8e7e-455a-86f0-dfd6ac6edf09.svg) -->
+<meta name="title" content="Vishnuxx">
+<meta name="description" content="Jack of all trades">
+<meta name="keywords" content="Vishnu , vishnu vs , ideologics , ideologic, code a pookkalam , techie , student developer , jack of all trades , student entrepreneur">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="revisit-after" content="5 days">
+<meta name="author" content="Vishnu VS">
+
+
+
 ![vishnuxx2](https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg)
 
 
