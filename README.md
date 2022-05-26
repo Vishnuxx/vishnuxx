@@ -1,5 +1,5 @@
-![vishnuxx](https://user-images.githubusercontent.com/74808440/170266114-1732c8da-8e7e-455a-86f0-dfd6ac6edf09.svg)
-
+<!-- ![vishnuxx](https://user-images.githubusercontent.com/74808440/170266114-1732c8da-8e7e-455a-86f0-dfd6ac6edf09.svg) -->
+![vishnuxx2](https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg)
 
 
 <p align="center" data-sourcepos="4:1-4:282" dir="auto">
@@ -39,13 +39,54 @@
         </a>
     </kbd>
 </p>
-    
-<p >
-I'm a self-taught web developer and Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance scalable software applications.
+
+
+<h5 align="center">Profile Visits</h4>
+<p align="center" >  
+  <img src="https://profile-counter.glitch.me/vishnuxx/count.svg" />  
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishnuxx&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p >
+I'm a self-taught web developer and Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance scalable software applications. I love Creating the creators.
+</p>
+
+  <br>
+
+  
+  
+  
+<table  align="center">
+<tr >
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vishnuxx&theme=dark&icon_color=f5a422&title_color=f5a422&hide_border=true&text_color=fff&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuxx&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishnuxx&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<!--    <img  align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=vishnuxx"/> -->
+   
+  
+  </td>
+</tr>
+</table>
+
+[![Vishnuxx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=react-dark&line=f5a422&color=f5a422&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishnuxx&theme=onedark&no-frame=true&no-bg=true&column=8"/>
+</p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=your-github-vishnuxx" />
+</p>
 
 
 
@@ -96,7 +137,7 @@ I'm a self-taught web developer and Mobile App Developer with experience in desi
 </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-vishnuxx)
+
 
 
 
