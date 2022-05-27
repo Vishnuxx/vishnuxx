@@ -1,6 +1,6 @@
 <meta name="title" content="Vishnuxx">
 <meta name="description" content="Jack of all trades">
-<meta name="keywords" content="Vishnu , vishnu vs , ideologics , ideologic, code a pookkalam , techie , student developer , jack of all trades , student entrepreneur">
+<meta name="keywords" content="Vishnu VS , github , ideologics , ideologic, code a pookkalam , techie , student developer , jack of all trades , student entrepreneur , Ideologics ,  vishnu vs , vishnuxx ,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
@@ -9,7 +9,7 @@
 
 
 
-![vishnuxx2](https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg)
+<img alt="vishnuxx github" src="https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg"></img>
 
 
 <p align="center" data-sourcepos="4:1-4:282" dir="auto">
@@ -19,33 +19,33 @@
 <p align="center">
     <kbd>
         <a href="https://www.linkedin.com/in/vishnu-vs-799b8420b">
-         <img style="margin-right: 30px; width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/> 
+         <img alt="vishnu's linkedin profile" style="margin-right: 30px; width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/> 
         </a>
     </kbd>
     <kbd>
         <a href="https://instagram.com/ideo_logic?igshid=YmMyMTA2M2Y=">
-        <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>  
+        <img alt="vishnu's instagram profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>  
         </a>
     </kbd>
     <kbd>
          <a href="https://dev.to/vishnuxx">
-        <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/> 
+        <img alt="vishnu's dev.to profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/> 
         </a>
     </kbd>
 <!--     <kbd>
         <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
     </kbd> -->
     <kbd>
-        <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+        <img alt="vishnu's discord" style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
     </kbd>
     <kbd>
          <a href="https://stackoverflow.com/users/15778787/vishnuxx">
-        <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"/>
+        <img alt="vishnu's stackoverflow profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"/>
         </a>
     </kbd>
     <kbd>
          <a href="https://dribbble.com/Vishnuxx">
-        <img style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
+        <img alt="vishnu's dribble profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
         </a>
     </kbd>
 </p>
