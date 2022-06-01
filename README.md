@@ -31,9 +31,6 @@
         <img alt="vishnu's dev.to profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/> 
         </a>
     </kbd>
-<!--     <kbd>
-        <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
-    </kbd> -->
     <kbd>
         <img alt="vishnu's discord" style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
     </kbd>
@@ -46,6 +43,11 @@
          <a href="https://dribbble.com/Vishnuxx">
         <img alt="vishnu's dribble profile" style="width:30px; height:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
         </a>
+    </kbd>
+     <kbd>
+         <a href="https://www.youtube.com/channel/UCYTyVW6EnTsZ83-05aty-hw">
+        <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
+         </a>
     </kbd>
 </p>
 
