@@ -1,9 +1,8 @@
 <meta name="title" content="Vishnuxx">
 <meta name="description" content="Jack of all trades">
-<meta name="keywords" content="Vishnu VS , github , ideologics , ideologic, code a pookkalam , techie , student developer , jack of all trades , student entrepreneur , Ideologics ,  vishnu vs , vishnuxx ,">
+<meta name="keywords" content="Vishnu VS , vishnuxx ,jack of all trades , ideologics , ideologic, code a pookkalam , techie , student developer  , student entrepreneur , Ideologics ,  vishnu vs , github ,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="Vishnu VS">
 
@@ -72,7 +71,7 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vishnuxx&theme=dark&icon_color=f5a422&title_color=f5a422&hide_border=true&text_color=fff&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuxx&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishnu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuxx&theme=dark&hide_border=true" />
 
 
   
