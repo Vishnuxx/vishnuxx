@@ -13,7 +13,8 @@
 
 <p align="center" data-sourcepos="4:1-4:282" dir="auto">
 
-<p align="center"  data-sourcepos="6:1-6:282" dir="auto"><img src="https://camo.githubusercontent.com/17b85af8a93575ffb2e4f3d8ab44efdfafd33290f924ad733ab06dfd917ce307/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d506f7070696e732673697a653d3330266475726174696f6e3d3230303026636f6c6f723d464641303034266261636b67726f756e643d37443744374431392663656e7465723d74727565267643656e7465723d74727565266c696e65733d466f756e6465722b3b554925324655582b64657369676e65722b3b456e7472657072656e65757265723b436f6d6d756e6974792b4c6561643b53747564656e742b456e74687573696173742b3b53656c662b7461756768742b446576656c6f7065722b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;size=30&amp;duration=2000&amp;color=FFA004&amp;background=7D7D7D19&amp;center=true&amp;vCenter=true&amp;lines=Founder+;UI%2FUX+designer+;Entrepreneur;Community+Lead;Student+Enthusiast+;Self+taught+Developer+" style="max-width: 100%;"></p>
+<p align="center" data-sourcepos="16:1-16:268" dir="auto">
+<img src="https://camo.githubusercontent.com/39e3ef57c3dd6e9451086348d9af7573bd7c8dd381ff585feaaeea6ad43e56f5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d506f7070696e73266475726174696f6e3d3230303026636f6c6f723d463741453139266261636b67726f756e643d35303433304332412663656e7465723d74727565267643656e7465723d74727565266c696e65733d466f756e6465723b554925324655782b64657369676e65723b456e7472657072656e6575723b436f6d6d756e6974792b4c6561643b53747564656e742b456e74687573696173743b53656c662d5461756768742b446576656c6f706572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;duration=2000&amp;color=F7AE19&amp;background=50430C2A&amp;center=true&amp;vCenter=true&amp;lines=Founder;UI%2FUx+designer;Entrepreneur;Community+Lead;Student+Enthusiast;Self-Taught+Developer" style="max-width: 100%;"></p>
 
 <p align="center">
     <kbd>
@@ -137,18 +138,6 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
       <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
     </br>
 </p>
-
-
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuxx&count_private=true,show_icons=true&theme=city_lights" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuxx&layout=compact&theme=city_lights" />
-</a>
-</div>
-
-
 
 
 
