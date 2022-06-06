@@ -102,7 +102,7 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
 
 
 
-<!-- 
+
 <p align="center"  > 
     <br>
      <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
