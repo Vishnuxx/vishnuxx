@@ -104,6 +104,8 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
 
 
 
+<h3 align="center">My ToolBox</h3>
+
 <p align="center"  > 
     <br>
      <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
@@ -116,7 +118,12 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>   
      <img src="https://img.icons8.com/color/48/000000/php.png"/>
-     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="express" width="40" height="40"/> </a>
+    <img src="https://mpng.subpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" width="60px" height="40px"/>
+    <img src="https://img.icons8.com/fluency/48/undefined/docker.png"/>
+    <img src="https://img.icons8.com/color/48/undefined/golang.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="40px" height="40px"/>
+    <img src="https://repository-images.githubusercontent.com/130884470/ad63fd00-7ab2-11ea-9c57-6c114391183a" width="80px" height="50px"/>
      <img src="https://img.icons8.com/color/48/000000/django.png"/>
      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -133,6 +140,7 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>   
       <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
       <img src="https://img.icons8.com/color/48/000000/fl-studio.png"/>
+      <img src="https://img.icons8.com/color/48/undefined/garage-band--v2.png"/>
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
       <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
       <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
