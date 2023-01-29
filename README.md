@@ -90,7 +90,7 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
 </tr>
 </table>
 
-[![Vishnuxx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=react-dark&line=f5a422&color=f5a422&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vishnuxx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vishnuxx&theme=react-dark&line=f5a422&color=f5a422&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
