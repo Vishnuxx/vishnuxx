@@ -156,9 +156,6 @@ I'm a self-taught web and Mobile App Developer with experience in designing new 
 
 
 
-
-[![Vishnuxx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishnuxx&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div>
     <a href="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
