@@ -60,7 +60,7 @@
 
 
 <p >
-I'm a self-taught web and Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance scalable software applications. I love Creating the creators.
+I'm a generalist. I love Creating the creators.
 </p>
 
   <br>
