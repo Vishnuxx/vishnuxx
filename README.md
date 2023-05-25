@@ -59,7 +59,7 @@
 </p>
 
 
-<p >
+<p align="center" >
 I'm a generalist. I love Creating the creators.
 </p>
 
