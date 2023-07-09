@@ -9,7 +9,11 @@
 
 
 <img alt="vishnuxx github" src="https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg"></img>
+<p align="center" >
+A Generalist who loves building the creators.
+</p>
 
+  <br>
 
 <p align="center" data-sourcepos="4:1-4:282" dir="auto">
 
@@ -50,6 +54,12 @@
         <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
          </a>
     </kbd>
+    <kbd>
+         <a href="https://figma.com/@ideologic">
+       <img width="30" height="30" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<!--         <img style="width:30px; height:30px;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/> -->
+         </a>
+    </kbd>
 </p>
 
 
@@ -59,11 +69,7 @@
 </p>
 
 
-<p align="center" >
-I'm a generalist. I love Creating the creators.
-</p>
 
-  <br>
 
   
   
@@ -90,7 +96,7 @@ I'm a generalist. I love Creating the creators.
 </tr>
 </table>
 
-[![Vishnuxx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vishnuxx&theme=react-dark&line=f5a422&color=f5a422&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <p align="center">
@@ -113,6 +119,11 @@ I'm a generalist. I love Creating the creators.
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
      <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+     <img src="https://img.icons8.com/color/48/undefined/golang.png"/>
+     <img width="48" height="48" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi"/>
+     <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
+     <img width="48" height="48" src="https://img.icons8.com/external-those-icons-fill-those-icons/48/external-esp-cars-components-those-icons-fill-those-icons.png" alt="external-esp-cars-components-those-icons-fill-those-icons"/>
+     <img width="50" height="50" src="https://img.icons8.com/nolan/64/rust-programming-language--v1.png" alt="rust-programming-language--v1"/>
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
@@ -121,7 +132,6 @@ I'm a generalist. I love Creating the creators.
      <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="express" width="40" height="40"/> </a>
     <img src="https://mpng.subpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" width="60px" height="40px"/>
     <img src="https://img.icons8.com/fluency/48/undefined/docker.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/golang.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="40px" height="40px"/>
     <img src="https://repository-images.githubusercontent.com/130884470/ad63fd00-7ab2-11ea-9c57-6c114391183a" width="80px" height="50px"/>
      <img src="https://img.icons8.com/color/48/000000/django.png"/>
