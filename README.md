@@ -1,3 +1,5 @@
+![photo_2024-03-28_01-26-02](https://github.com/Vishnuxx/vishnuxx/assets/74808440/f99fac16-77cb-4002-9edd-1b4e1c6c096f)
+
 <meta name="title" content="Vishnuxx">
 <meta name="description" content="Jack of all trades">
 <meta name="keywords" content="Vishnu VS , vishnuxx ,jack of all trades , ideologics , ideologic, code a pookkalam , techie , student developer  , student entrepreneur , Ideologics ,  vishnu vs , github ,">
@@ -8,7 +10,7 @@
 
 
 
-<img alt="vishnuxx github" src="https://user-images.githubusercontent.com/74808440/170483504-52c5469f-8621-4d3c-9bff-9ebe6be0b493.svg"></img>
+
 <p align="center" >
 A Generalist who loves building the creators.
 </p>
